@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Vicktor Ramos!
 
-🎮 **Software Developer & Game Developer**
-💻 Estudante de **Sistemas de Informação**
-🚀 Apaixonado por tecnologia, jogos e criação de experiências digitais.
+🎮 **Software Developer & Game Developer**  
+💻 Estudante de **Sistemas de Informação**  
+🚀 Desenvolvendo soluções, explorando tecnologias e transformando ideias em projetos reais.
 
 > **Transformando código em experiências.**
 
@@ -10,39 +10,53 @@
 
 ## 🧑‍💻 Sobre mim
 
-Tenho 19 anos e sou desenvolvedor de software com interesse em diferentes áreas da tecnologia.
+Sou desenvolvedor de software e estudante de Sistemas de Informação, com interesse em diferentes áreas da engenharia de software e tecnologia.
 
-Minha jornada passa pelo desenvolvimento **Web, Mobile, Backend e principalmente Game Development**, buscando constantemente aprender novas tecnologias e transformar ideias em projetos reais.
+Minha trajetória envolve **desenvolvimento Web, Mobile, Backend, Engenharia de Dados e Game Development**, buscando construir aplicações, sistemas e experiências digitais.
 
-Atualmente, meus principais focos são **JavaScript, Python, React e Godot**.
+Tenho interesse em compreender todo o ciclo de desenvolvimento de um produto, desde sua concepção e arquitetura até sua implementação e evolução.
+
+Atualmente, meus principais focos estão em **JavaScript, Python, desenvolvimento Full Stack, dados e Godot**.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 💻 Linguagens
+### 💻 Linguagens de Programação
 
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,python" />
 </p>
 
-**JavaScript** • **Python**
+**JavaScript** • **Python** • **SQL** • **GDScript**
 
 ### ⚛️ Frameworks & Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,html,css" />
 </p>
 
-**React Native** • **React.js** • **Vue.js**
+**React.js** • **React Native** • **Vue.js** • **Next.js** • **Node.js** • **Express.js**
 
 ### 🗄️ Banco de Dados & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
 </p>
 
-**SQL** • **Xano** • **REST APIs**
+**SQL Server** • **MySQL** • **PostgreSQL** • **Supabase** • **Xano** • **REST APIs**
+
+### 📊 Dados & Automação
+
+**Python** • **Pandas** • **Power BI** • **Excel** • **n8n**
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Git** • **GitHub** • **Visual Studio Code**
 
 ---
 
@@ -50,49 +64,70 @@ Atualmente, meus principais focos são **JavaScript, Python, React e Godot**.
 
 <div align="center">
 
-## ⭐ GODOT
+## ⭐ GODOT ENGINE
+
+<img src="https://skillicons.dev/icons?i=godot" />
 
 </div>
 
 O desenvolvimento de jogos é uma das áreas que mais me inspira.
 
-Utilizo **Godot** para criar experiências 2D e 3D, trabalhando com programação, gameplay, sistemas, personagens, interfaces e diferentes mecânicas de jogo.
+Utilizo **Godot Engine** para explorar a criação de experiências interativas, trabalhando com programação, gameplay, sistemas, personagens, interfaces e mecânicas de jogo.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=godot" />
-</p>
+Tenho interesse em:
+
+- Desenvolvimento de jogos 2D e 3D.
+- Programação de gameplay e mecânicas.
+- Arquitetura e organização de projetos.
+- Sistemas de interação e movimentação.
+- Game Design e experiência do jogador.
 
 > **Pensar como desenvolvedor. Criar como artista. Imaginar como game designer.**
 
 ---
 
-## 🚀 O que estou desenvolvendo
+## 🚀 Áreas de Desenvolvimento
 
-Atualmente, utilizo meus projetos como forma de aprender, experimentar tecnologias e construir meu portfólio.
+### 💻 Software Engineering & Full Stack
 
-### 🎮 Games
+Desenvolvimento de aplicações e sistemas, integração entre frontend e backend, construção de APIs e organização de arquiteturas.
 
-Projetos desenvolvidos utilizando principalmente **Godot**, explorando diferentes conceitos de gameplay, programação e design de jogos.
+### 📊 Data Engineering
 
-### 💻 Software
+Exploração, processamento e organização de dados, automação de processos e desenvolvimento de soluções orientadas a dados.
 
-Projetos envolvendo:
+### 📱 Mobile Development
 
-* Aplicações Web
-* Aplicações Mobile
-* APIs REST
-* Sistemas com banco de dados
-* Interfaces e experiências digitais
+Criação de aplicações mobile, interfaces e integração com serviços e bancos de dados.
+
+### 🎮 Game Development
+
+Desenvolvimento de jogos, sistemas de gameplay e experiências interativas utilizando Godot.
 
 ---
 
-## 📊 GitHub
+## 📂 Projetos
+
+Utilizo meus projetos como laboratório de aprendizado e desenvolvimento de soluções práticas.
+
+Entre os projetos que fazem parte da minha trajetória estão:
+
+- **Escolares** — desenvolvimento de uma aplicação com frontend e backend.
+- **InfoAgora** — aplicação mobile voltada ao consumo de notícias.
+- **Kaze** — projeto de desenvolvimento de software.
+- **East-Blue** — projeto de desenvolvimento de software.
+
+*Os projetos em destaque serão organizados individualmente conforme a evolução da auditoria do portfólio.*
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OppasVTzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppasVTzin&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -100,32 +135,32 @@ Projetos envolvendo:
 
 ## 🌱 Atualmente aprendendo
 
-* Desenvolvimento de jogos com **Godot**
-* Arquitetura e organização de projetos
-* Desenvolvimento Web
-* Desenvolvimento Mobile
-* Banco de dados e APIs
-* Boas práticas de programação
+- Arquitetura e Engenharia de Software.
+- Desenvolvimento Full Stack.
+- Engenharia e processamento de dados.
+- Desenvolvimento de jogos com Godot.
+- Boas práticas, padrões de projeto e organização de código.
+- Construção de aplicações escaláveis.
 
 ---
 
 ## 🎯 Minha jornada
 
 ```text
-Aprender
-   ↓
-Experimentar
-   ↓
-Criar
-   ↓
-Errar
-   ↓
-Melhorar
-   ↓
-Construir projetos melhores
+       APRENDER
+          ↓
+     EXPERIMENTAR
+          ↓
+        CRIAR
+          ↓
+        ERRAR
+          ↓
+      MELHORAR
+          ↓
+      EVOLUIR
 ```
 
-Cada projeto é uma nova etapa da minha jornada como desenvolvedor.
+Acredito que cada projeto representa uma oportunidade de desenvolver novas habilidades, enfrentar desafios e construir soluções melhores.
 
 ---
 
@@ -133,9 +168,13 @@ Cada projeto é uma nova etapa da minha jornada como desenvolvedor.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
+<a href="https://github.com/OppasVTzin">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+<a href="https://instagram.com/vicktor.devx">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -145,7 +184,7 @@ Cada projeto é uma nova etapa da minha jornada como desenvolvedor.
 
 ### 💙 Obrigado por visitar meu perfil!
 
-**Vicktor Ramos**
+**Vicktor Ramos**  
 *Software Developer • Game Developer*
 
 </div>
