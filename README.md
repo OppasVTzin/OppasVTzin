@@ -16,7 +16,7 @@ Minha trajetória envolve **desenvolvimento Web, Mobile, Backend, Engenharia de 
 
 Tenho interesse em compreender todo o ciclo de desenvolvimento de um produto, desde sua concepção e arquitetura até sua implementação e evolução.
 
-Atualmente, meus principais focos estão em **JavaScript, Python, desenvolvimento Full Stack, dados e Godot**.
+Atualmente, meus principais focos são **JavaScript, Python, desenvolvimento Full Stack e Godot**.
 
 ---
 
@@ -46,17 +46,13 @@ Atualmente, meus principais focos estão em **JavaScript, Python, desenvolviment
 
 **SQL Server** • **MySQL** • **PostgreSQL** • **Supabase** • **Xano** • **REST APIs**
 
-### 📊 Dados & Automação
-
-**Python** • **Pandas** • **Power BI** • **Excel** • **n8n**
-
 ### 🔧 Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Git** • **GitHub** • **Visual Studio Code**
+**Git** • **GitHub** • **Visual Studio Code** • **n8n**
 
 ---
 
@@ -106,18 +102,15 @@ Desenvolvimento de jogos, sistemas de gameplay e experiências interativas utili
 
 ---
 
-## 📂 Projetos
+## 🏆 Projetos em Destaque
 
-Utilizo meus projetos como laboratório de aprendizado e desenvolvimento de soluções práticas.
+### 🎮 Incompetence Inc.
 
-Entre os projetos que fazem parte da minha trajetória estão:
+<em>Projeto finalizado e entregue em 2024.</em>
 
-- **Escolares** — desenvolvimento de uma aplicação com frontend e backend.
-- **InfoAgora** — aplicação mobile voltada ao consumo de notícias.
-- **Kaze** — projeto de desenvolvimento de software.
-- **East-Blue** — projeto de desenvolvimento de software.
+Jogo desenvolvido utilizando **Godot Engine**, representando uma das experiências da minha trajetória no desenvolvimento de jogos.
 
-*Os projetos em destaque serão organizados individualmente conforme a evolução da auditoria do portfólio.*
+🔗 **[Jogar Incompetence Inc. no itch.io](https://preuss.itch.io/incompetence-inc)**
 
 ---
 
@@ -125,22 +118,43 @@ Entre os projetos que fazem parte da minha trajetória estão:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OppasVTzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OppasVTzin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppasVTzin&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppasVTzin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌱 Atualmente aprendendo
+## 📚 Linguagens e tecnologias para aprender até 2030
 
-- Arquitetura e Engenharia de Software.
-- Desenvolvimento Full Stack.
-- Engenharia e processamento de dados.
-- Desenvolvimento de jogos com Godot.
-- Boas práticas, padrões de projeto e organização de código.
-- Construção de aplicações escaláveis.
+Meu planejamento de evolução técnica inclui ampliar meus conhecimentos em novas linguagens, frameworks e áreas da infraestrutura de tecnologia.
+
+### 💻 Linguagens de Programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,cpp,go,php,ts" />
+</p>
+
+**Java** • **Kotlin** • **C#** • **C++** • **Golang** • **PHP** • **TypeScript**
+
+### ⚛️ Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular" />
+</p>
+
+**Angular**
+
+### 🗄️ Banco de Dados
+
+**NoSQL**
+
+### 🌐 Infraestrutura e Tecnologia
+
+- Redes de computadores.
+- Infraestrutura de TI.
+- Power BI.
 
 ---
 
